@@ -1,0 +1,17 @@
+# Simulator outputs
+work/
+csrc/
+simv*
+*.daidir
+*.vdb
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+*.ucdb
+*.log
+transcript
+xcelium.d/
+INCA_libs/
+xsim.dir/
+.Xil/
